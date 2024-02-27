@@ -15,6 +15,12 @@ Arduino, Matlab, C++, PHP
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beni-wijaya-j140603/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/recovery1990/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hifromben/)
+[![discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@beni_wijaya/)
+[![credly](https://img.shields.io/badge/credly-0675C1?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/)
+[![tiktok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
+[![letterboxd](https://img.shields.io/badge/letterboxd-00A9D6?style=for-the-badge&logo=letterboxd&logoColor=white)](https://boxd.it/2U8H9/)
+
+
 
 
 ## More About Me
