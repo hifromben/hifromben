@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm an electrical engineering stundents...
+I'm an electrical engineering students...
 
 
 
