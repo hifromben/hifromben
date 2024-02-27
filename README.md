@@ -29,9 +29,6 @@ Arduino, Matlab, C++, PHP
 
 😍 I'm looking to collaborate on IOT Projects
 
-📫 How to reach me (beniw163@gmail.com)
-
-😄 Pronouns : he/him/his
-
 ⚡️ Fun fact : love cat, radiohead and breaking bad
 
+📫 You can reach me through all my social media or via email (beniw163@gmail.com) for formal matters
